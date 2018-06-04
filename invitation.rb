@@ -1,5 +1,5 @@
-"guest_name"= Hermione
-puts "guest_name"
+guest_name= Hermione
+puts guest_name
 
 # Code your prompts here!
 
